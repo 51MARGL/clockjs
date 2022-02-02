@@ -1,1 +1,1 @@
-# clockjs
+Simple css animated clock
